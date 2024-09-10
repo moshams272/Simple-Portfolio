@@ -1,0 +1,11 @@
+.header{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    background-image: url("/GreenBlack.jpg");
+    height: 750px;
+}
+.text{
+    color: rgb(41, 214, 56);
+    margin: 100px;
+}

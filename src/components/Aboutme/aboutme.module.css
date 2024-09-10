@@ -1,0 +1,23 @@
+.aboutMe{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-color: rgb(20 109 4); */
+    background-image: linear-gradient(rgb(13, 20, 13) 10%,rgb(20 109 4) 80%,black 100%);
+    padding: 50px;
+    height: 550px;
+}
+.col{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.aboutMeImg{
+    border-radius: 15px;
+    width: 300px;
+    height: 450px;
+}
+.text{
+    color: #c0ffaa;
+}

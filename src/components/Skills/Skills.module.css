@@ -1,0 +1,8 @@
+.skills{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: linear-gradient(rgb(0, 0, 0) 10%,rgb(20 109 4) 80%,black 100%);
+    padding: 50px;
+}
