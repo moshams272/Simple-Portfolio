@@ -3,7 +3,7 @@ export default function Footer(){
     return(
         <>
         <div className={footerStyle.footer}>
-            <h1>Contact & My Accounts</h1>
+            <h1 style={{color:"#c0ffaa"}}>Contact & My Accounts</h1>
             <br />
             <h6>Phone Number: 01554556123</h6>
             <h6>Linkedin: <a style={{color:"rgb(65 151 34)"}} href="https://www.linkedin.com/in/shams272/">Mohamed Shams El-Deen</a></h6>
